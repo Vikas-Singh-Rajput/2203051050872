@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.cache/
+dist/
+.env
+.DS_Store
+*.log
+*.zip
+*.tgz
+.vscode/
